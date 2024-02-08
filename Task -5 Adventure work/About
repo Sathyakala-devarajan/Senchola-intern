@@ -1,0 +1,23 @@
+About The Project:
+    I am sharing Adventure Works Cycles Report, in which I used Power BI to gain insights from data belonging to the Adventure Works Cycles bicycle company. 
+The data consists of details on clients, products, categories, subcategories, sales, returns, and geographical areas. 
+Adventure Works needs to monitor key performance measures like sales, revenue, profit, and returns as well as compare regional performance, 
+examine trends and projections at the product level, and pinpoint high-value clients. 
+I was able to create a storytelling dashboard using the robust data visualization and analysis features of Power BI.
+Insights:
+    1. Total Active customers are 17,416, and Inactive customers are 729. The total number of Orders is 25,164, and Orders Quantity is 84,714. The total number of Products is 293, Product Categories are 4, and Product Subcategories are 37.
+    2. The Total cost is $14.46 million, Total Revenue is $24.91 million, and Gross Profit is $10.46 million.
+    3. Total Returns are 1,809 in quantity. The Return Rate is 2.17%.
+    4. Orders by Category: Accessories lead with 44.82%, followed by Bikes with 36.76%, and Clothing with 18.41%.
+    5. Revenue by Year: In 2021, bags contribute 37.42% to revenue, followed by 2022 with 36.87%, and 2020 with 25.1%.
+    6. Total Customers: There are 8,766 male customers, 8,527 female customers, and 123 with an unspecified gender.
+    7. Most Ordered Product Subcategory is Tire and Tubes, and the Least is Bike Stands.
+    8. Top 10 Products by High Revenue are all bikes because they have a higher price.
+
+Recommendation:
+    1. Holiday Promotions: Introduce festive promotions to capitalize on the increased shopping activity during December holidays.
+    2. Gift Ideas and Bundles: Create curated gift ideas and bundles to simplify holiday shopping, catering to the gift-giving tradition.
+    3. Limited-Time Offers: Implement exclusive deals to create urgency, leveraging the heightened demand for timely holiday purchases.
+    4. Enhanced Marketing Campaigns: Invest in visually appealing campaigns across channels to boost brand visibility during the active holiday shopping season.
+    5. Customer Loyalty Programs: Launch or enhance loyalty programs to foster brand loyalty and incentivize repeat purchases during the holiday rush.
+
