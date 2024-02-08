@@ -1,0 +1,32 @@
+About the Project:
+    In this project, I have incorporated an array of interactive features designed to enhance user engagement and functionality. 
+From intuitive bookmarking and seamless selection options to dynamic actions for various shapes, every aspect is meticulously crafted to elevate the user experience.
+    One of the key highlights of this implementation is the inclusion of a secure password feature. 
+By integrating this element, users can access a detailed page containing valuable information once they successfully provide the designated password. 
+This ensures not only enhanced security but also grants users exclusive access to privileged content, fostering a sense of exclusivity and confidentiality.
+    With these innovative features seamlessly integrated into the project, 
+users can enjoy a highly interactive and personalized experience while navigating through the platform. 
+Whether it's effortlessly bookmarking important sections or unlocking exclusive content with a secure password, 
+this project aims to redefine user interaction and engagement in a truly impressive manner.
+
+Insights:
+    1. Total No. of calls : 5000, 
+    2. Answered calls: 4054 (81.08%)
+    3. Resolved calls: 3646 (72.92%)
+    4. Average answer speed: 67.52 sec
+    5. Average call duration: 00:03:45
+    6. Customer satisfaction rating: 3.40
+    7. Total No. of agents: 8
+    8. No. of Calls answered by agent:
+        Jim: 536, Dan: 523, Becky: 517, Martha: 514, Greg: 502, Diane: 501, Joe: 484, Stewart: 477
+    9. No. of Calls by topic: 
+        Streaming: 1022 (20.44%), Technical Support: (1019) 20.38%, Payment related: (1007) 20.14%, 
+        Admin support: (976) 19.52%, Contract related: (976) 19.52%
+    10. Most issues resolved employee: Jim, 485 calls
+    11. More calls answered employee: Jim, 536 calls
+    12. Most rated employee: Martha, 3.47 rating
+    13. More calls missed employee: Diane, 132 calls
+
+Review: 
+    1. Focus on Admin support, Contract related topics which low percentage compared to other topics.
+    2. Investigate reason for more missing calls (132) by Diane and 18.92% of calls were not answered and implement the strategy for improvement.
