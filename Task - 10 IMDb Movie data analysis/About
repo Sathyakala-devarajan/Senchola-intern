@@ -1,10 +1,13 @@
 Title: Web Scraping IMDb Data with Python in Jupyter Notebook
 
 Introduction:
-    In this project, we will explore how to collect movie data from IMDb using web scraping techniques in Python. IMDb (Internet Movie Database) is a popular online database of information related to films, television programs, and video games. By scraping IMDb, we can gather valuable insights into various aspects of movies such as ratings, reviews, cast, and more.
+    In this project, we will explore how to collect movie data from IMDb using web scraping techniques in Python. 
+IMDb (Internet Movie Database) is a popular online database of information related to films, television programs, and video games.
+By scraping IMDb, we can gather valuable insights into various aspects of movies such as ratings, reviews, cast, and more.
 
 Objective:
-    The main objective of this project is to demonstrate how to scrape IMDb data using Python libraries like BeautifulSoup and requests, and then analyze the collected data in a Jupyter Notebook environment.
+    The main objective of this project is to demonstrate how to scrape IMDb data using Python libraries 
+like BeautifulSoup and requests, and then analyze the collected data in a Jupyter Notebook environment.
 
 Steps:
 Setup Environment:
