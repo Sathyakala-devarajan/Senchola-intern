@@ -1,4 +1,6 @@
-        I've just wrapped up an enriching internship at Senchola Technology Solutions, where I delved into 12 transformative projects spanning Excel, Power BI, Tableau, SQL, Python, and web scraping. 
+        I've just wrapped up an enriching internship at Senchola Technology Solutions, 
+        where I delved into 12 transformative projects spanning 
+        Excel, Power BI, Tableau, SQL, Python, and web scraping. 
         
     1. Titanic Data Analysis using Excel
     2. Senchola Batch Analysis using Power BI & Tableau
