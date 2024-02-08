@@ -1,0 +1,16 @@
+Insights:
+    1. Total Customer Count is 7043.
+    2. The Churn Rate percentage is 26.54%.
+    3. Total Monthly Charges amount to $456.1K.
+    4. Total Yearly Charges sum up to $16.1M.
+    5. Types of Contracts: Month-to-Month with 3875, Two-year with 1695, and One Year with 1473.
+    6. Churn by Types of Internet Services: Fiber Optic with 69.4%, DSL with 24.6%, and No with 6%.
+    7. Count of Churned Customers: 1869 customers.
+    8. Years of Contract: Tenure 0-12: 2186, Tenure 61-72: 1407, Tenure 13-24: 1024, Tenure 25-36: 832, Tenure 49-60: 832, and Tenure 37-48: 762.
+    9. Churned customers by Payment Method: Electronic Check by 1071, Mailed Check by 308, Bank Transfer by 258, and Credit card by 232.
+    10. Gender-Based Split: Male 3555 (50.5%) and Female 3488 (49.5%).
+    11. Services Customers Signed up for: StreamingMovies tops by 2732, OnlineBackup by 2429, DeviceProtection by 2242, OnlineSecurity by
+        2019, TechSupport by 2044, and Streaming TV by 2707.
+    12. Churn (Y/N): Yes by 1869 and No by 5174.
+    13. Customers by Payment Method: Electronic Check by 2365, Mailed Check by 1612, Bank Transfer by 1544, and Credit card by 1522.
+    14. Risk of Churn (Tenure < 10): High Risk by 1854 and Low by 5189.
